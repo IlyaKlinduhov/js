@@ -104,10 +104,10 @@ function dif(a, b){
 }
 console.log(dif(3, 26));
 
-var multip = function(a, b) {
+let multip = function(a, b) {
     return(a * b);
 }
 console.log(multip(4, 3));
 
-var sum = (a, b) => a + b;
+let sum = (a, b) => a + b;
 console.log(sum(12, 6));
